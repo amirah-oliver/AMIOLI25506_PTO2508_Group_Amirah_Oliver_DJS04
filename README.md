@@ -13,7 +13,7 @@ This project will test your ability to manage complex UI state, synchronise mult
 - Implement a flexible search that matches any part of the podcast title.
 - Results should update dynamically as the user types or upon submission.
 - Ensure that search results integrate with current filters, sorts, and pagination without resetting them.
-
+.
 ### Sorting Options
 
 - Allow sorting podcasts by:
